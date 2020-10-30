@@ -1,2 +1,2 @@
 # sudokuSolver
-Backtracking method in C# to solve sudoku puzzles
+Backtracking method in Python to solve sudoku puzzles
